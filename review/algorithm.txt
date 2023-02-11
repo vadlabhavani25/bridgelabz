@@ -1,0 +1,9 @@
+step 1:  search for the item present in another directory.
+
+step 2:  next find the extension of files and give names to them.
+
+step 3:  Now create a new directory Main within that sub1,sub2,sub3 
+
+step 4:  now move the directory to the sub2 folder.
+
+step 5:  done.
